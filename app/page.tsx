@@ -102,6 +102,15 @@ export default function HomePage() {
             >
               Instagram
             </a>
+            <a
+              className="btn"
+              href="https://wa.me/5511979875590"
+              target="_blank"
+              rel="noreferrer noopener"
+              aria-label="Contato via WhatsApp"
+            >
+              WhatsApp
+            </a>
           </div>
         </section>
       </main>

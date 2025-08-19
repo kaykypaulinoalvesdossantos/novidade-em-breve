@@ -7,9 +7,6 @@ export const metadata: Metadata = {
   description: "Portal temporariamente fechado. Em breve, abriremos o portal para o Multiverso.",
   themeColor: "#000000",
   generator: "v0.app",
-  icons: {
-    icon: "/favicon.ico",
-  },
 }
 
 export default function RootLayout({
